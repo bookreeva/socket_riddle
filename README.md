@@ -35,11 +35,6 @@
 
 ## Пример веб-приложения
 
-<img width="1201" alt="Снимок экрана 2023-12-11 в 16 21 40" src="https://github.com/chanfoxx/django_mailing/assets/133925881/76f00392-3b26-46ea-917f-65b8ca21578a">
-
-
-
-<img width="1201" alt="Снимок экрана 2023-12-11 в 16 21 54" src="https://github.com/chanfoxx/django_mailing/assets/133925881/d74c9bd4-f782-4e93-a8ab-cf010e3426a6">
 
 
 ## Ошибки и улучшения
