@@ -1,0 +1,3 @@
+eventlet
+loguru
+python-socketio
