@@ -35,6 +35,11 @@
 
 ## Пример веб-приложения
 
+<img width="498" alt="Снимок экрана 2024-03-29 в 19 55 30" src="https://github.com/chanfoxx/socket_riddle/assets/133925881/6b7ff2cd-2495-4969-a536-a7822ab67478">
+
+
+<img width="501" alt="Снимок экрана 2024-03-29 в 19 55 54" src="https://github.com/chanfoxx/socket_riddle/assets/133925881/153e5e18-cba6-4d27-b384-582c22c6a64b">
+
 
 
 ## Ошибки и улучшения
